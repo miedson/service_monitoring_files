@@ -43,5 +43,7 @@ password=
 //DADOS DO E-MAIL
 
 emailTo=email1, e-mail2
+
 subject=Titulo do e-mail
+
 body=Mensagem do e-mail
