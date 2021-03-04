@@ -3,7 +3,7 @@ O serviço é responsavel por monitorar a importação de arquivos em determinad
 
 No arquivo de Config é possivel determinar todas as configurações necessarias:
 
-//HORARIO DE SEGUNDA E SEXTA
+//HORARIO DE SEGUNDA E SEXTA\n
 start=07:15
 end=18:00
 
