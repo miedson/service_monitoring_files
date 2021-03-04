@@ -14,27 +14,34 @@ startFds=00:00
 endFds=00:01
 
 //CAMINHO DO DIRETÓRIO A SER MONITORADO
+
 path=
 
 //TEMPO DE ESPERA ATÉ A CHEGADA DE NOVO ARQUIVO E INTERVALO DE ENVIO DE E-MAILs
+
 tempo=1
 
 //TEMPO DE ESPERA FIM DE SEMANA
+
 tempoFds=10
 
 //QUANTIDADE DE E-MAILs A SEREM DISPARADOS POR TEMPO DE ESPERA
+
 emails=1
 
 //CAMINHO PARA SALVAR OS LOGs
+
 log=
 
 //CONFIGURAÇÕES DO SERVIDOR DE E-MAIL
+
 smtp_host=
 smtp_port=
 user=
 password=
 
 //DADOS DO E-MAIL
+
 emailTo=email1, e-mail2
 subject=Titulo do e-mail
 body=Mensagem do e-mail
