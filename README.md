@@ -1,4 +1,4 @@
-# service_monitoring_files
+# Serviço de monitoramento de arquivos
 O serviço é responsavel por monitorar a importação de arquivos em determinado diretorio FTP durante um intervalo de tempo, se nenhum arquivo chegar, o serviço enviar e-mails de alerta dobrando esse tempo de espera até que um novo arquivo chegue. 
 
 No arquivo de Config é possivel determinar todas as configurações necessarias:
